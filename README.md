@@ -60,17 +60,17 @@ So for the last row in that table:
 
 ## Files included fot this project: 
 
-1. 2 PDFs reports with the project wrangling and analysis information [Wrangle_report]() and [act_report]()
+1. 2 PDFs reports with the project wrangling and analysis information [Wrangle_report](https://github.com/SaraVicente/Udacity_Project4_Data_Wrangling/blob/master/Wrangle_report.pdf) and [act_report](https://github.com/SaraVicente/Udacity_Project4_Data_Wrangling/blob/master/act_report.pdf)
 
-2. **Python Code** you used to perform the wrangling and the analysis in **(.ipynb format)** [wrangle_act.ipynb]()
+2. **Python Code** you used to perform the wrangling and the analysis in **(.ipynb format)** [wrangle_act.ipynb](https://github.com/SaraVicente/Udacity_Project4_Data_Wrangling/blob/master/wrangle_act.ipynb)
 
-3. The [twitter-archive-enhanced.csv]() with the Data used for the project 
+3. The [twitter-archive-enhanced.csv](https://github.com/SaraVicente/Udacity_Project4_Data_Wrangling/blob/master/twitter-archive-enhanced.csv) with the Data used for the project 
 
-4. A text file ([tweet-json.txt]()) with the code for the json data
+4. A text file ([tweet-json.txt](https://github.com/SaraVicente/Udacity_Project4_Data_Wrangling/blob/master/tweet-json.txt)) with the code for the json data
 
-5. Data for the Image Predictions[image-predictions]()
+5. Data for the Image Predictions[image-predictions](https://github.com/SaraVicente/Udacity_Project4_Data_Wrangling/blob/master/image-predictions.tsv)
 
-6. PDF with the [PROJECT RUBRIC]()
+6. PDF with the [PROJECT RUBRIC](https://github.com/SaraVicente/Udacity_Project4_Data_Wrangling/blob/master/Udacity%20Rubric-Wrangle-Assess.pdf)
 
 ## Analysis Questions covered in the project
 
